@@ -6,7 +6,7 @@
 * ONLY HEN 1.8 
 * Cache
 * Payload can be used in offline mode.
-* Connect to the Internet" and run payloads as usually (browser).
+* Connect to the Host ESP8266t" and run payloads as usually (browser).
 
 ```
 * PS4 Wi-Fi Settings
