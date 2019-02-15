@@ -7,7 +7,7 @@
 * Cache
 * Payload can be used in offline mode.  turn off "Connect to the Internet" and run payloads as usually (browser).
 '''''
-* PS4 Wi-Fi Settings
+* **PS4 Wi-Fi Settings**
 * Network: NEWGAME
 * Password: 11111111
 '''''
