@@ -1,4 +1,4 @@
-# ESP8266-HEN18
+# ESP8266-HEN1.8
 
 ![Screenshot](NG.jpg)
 
